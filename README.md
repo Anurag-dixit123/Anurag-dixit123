@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anurag Dixit and I'm a Front end Developer from Firozabad.</h2>
+<h2 align="left">Hi 👋! My name is Anurag Dixit and I'm a Front end Developer.</h2>
 
 ###
 
